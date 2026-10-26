@@ -108,3 +108,4 @@ C:\Users\user\OneDrive\Desktop\ABB\abbassignment\backend\TicTacToe.Tests\obj\Deb
 C:\Users\user\OneDrive\Desktop\ABB\abbassignment\backend\TicTacToe.Tests\obj\Debug\net8.0\TicTacToe.Tests.pdb
 C:\Users\user\OneDrive\Desktop\ABB\abbassignment\backend\TicTacToe.Tests\obj\Debug\net8.0\TicTacToe.Tests.genruntimeconfig.cache
 C:\Users\user\OneDrive\Desktop\ABB\abbassignment\backend\TicTacToe.Tests\obj\Debug\net8.0\ref\TicTacToe.Tests.dll
+C:\Users\user\OneDrive\Desktop\ABB\abbassignment\backend\TicTacToe.Tests\obj\Debug\net8.0\TicTacToe.Tests.sourcelink.json

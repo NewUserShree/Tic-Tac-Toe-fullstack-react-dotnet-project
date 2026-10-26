@@ -217,7 +217,7 @@ function App() {
               <div><span>Draws</span><strong>{scoreboard.draws}</strong></div>
             </div>
             <button type="button" className="secondary" onClick={handleResetScoreboard} disabled={!!pendingAction}>
-              Reset Scoreboard
+              Reset
             </button>
           </div>
 
@@ -248,6 +248,7 @@ function App() {
           </div>
         </aside>
       </main>
+      <footer className="app-footer"></footer>
     </div>
   );
 }

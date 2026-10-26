@@ -29,3 +29,4 @@ C:\Users\user\OneDrive\Desktop\ABB\abbassignment\backend\TicTacToe.Api\obj\Debug
 C:\Users\user\OneDrive\Desktop\ABB\abbassignment\backend\TicTacToe.Api\obj\Debug\net8.0\TicTacToe.Api.pdb
 C:\Users\user\OneDrive\Desktop\ABB\abbassignment\backend\TicTacToe.Api\obj\Debug\net8.0\TicTacToe.Api.genruntimeconfig.cache
 C:\Users\user\OneDrive\Desktop\ABB\abbassignment\backend\TicTacToe.Api\obj\Debug\net8.0\ref\TicTacToe.Api.dll
+C:\Users\user\OneDrive\Desktop\ABB\abbassignment\backend\TicTacToe.Api\obj\Debug\net8.0\TicTacToe.Api.sourcelink.json
